@@ -1,7 +1,7 @@
 # crunchP
 A custom brute-forcer which doesn't take much storage, instead uses GPU
 
-#Requirements
+# Requirements
 <li>Python v3.x</li>
 <li>Pip or Conda (To install modules therefore OPTIONAL)</li>
 <li>GPU with CUDA cores</li>
